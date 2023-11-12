@@ -12,6 +12,6 @@ tags:
   - Design
 ---
 
-Dans le cadre de ma formation au diplômpe d'ingénieur IMAC, j'ai participé au développement de l'image de marque du logiciel Libize et de ça communication visuelle et digital. J'ai mis à contribution mes compétences en illustration, montage, marketing ou encore webdesign afin de promouvoir au mieux le logiciel.
+Dans le cadre de ma formation au diplôme d'ingénieur IMAC, j'ai participé au développement de l'image de marque du logiciel Libize et de sa communication visuelle et digital. J'ai mis à contribution mes compétences en illustration, montage, marketing ou encore webdesign afin de promouvoir au mieux le logiciel.
 
 Vous pouvez en voir plus sur mon travail en vous rendant sur le site officiel de <a href="https://libize.com" target="_blank">Libize</a>

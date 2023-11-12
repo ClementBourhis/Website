@@ -12,4 +12,4 @@ tags:
   - Design
 ---
 
-J'ai été engager pour réaliser la charte graphique du bar JUNO à Montpelier. L'objectif était de créer une identité visuelle forte et efficace pour un concepte de bar musical où des groupes de musique peuvent jouer.
+J'ai été engagé pour réaliser la charte graphique du bar JUNO à Montpellier. L'objectif était de créer une identité visuelle forte et efficace pour un concepte de bar musical où des groupes de musique peuvent jouer.

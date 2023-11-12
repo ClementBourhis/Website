@@ -12,4 +12,4 @@ tags:
   - Design
 ---
 
-Lors de ma mobilité au Canada, il m'a été donné comme exercice de créer l'image de marque de l'organisation Passeur Culturels de l'Outaouais, qui a pour objectif de favorisé le partage de la culture en tout genre pour les étudiants de la région.
+Lors de ma mobilité au Canada, j'ai créée une image de marque pour l'organisation Passeur Culturels de l'Outaouais, dont la mission est de favoriser le partage de la culture en tout genre pour les étudiants de la région.
