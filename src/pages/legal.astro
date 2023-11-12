@@ -1,0 +1,61 @@
+---
+import Hero from '../components/Hero.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+---
+
+<BaseLayout title="Mention légal | Clément Bourhis" description="page des mentions légales">
+	
+    <main class="wrapper legal">
+        <Hero title="Mentions légales"/>
+        <a class="back-link" href="/"><Icon icon="arrow-left" /> Accueil</a>
+        <section>
+            <h2>Propriétaire et créateur du site</h2>
+            <a href="/">Clément Bourhis</a>
+            <br>
+            <h2>Hébergeur</h2>
+            <p><a href="https://pages.github.com/">GitHub Pages</a> - 88 Colin P Kelly Jr St, San Francisco, CA 94107, États-Unis</p>
+        </section>
+    </main>
+</BaseLayout>
+
+
+<style>
+    .legal {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+    section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+    h2 {
+		font-size: var(--text-xl);
+	}
+
+    .back-link,
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.back-link:hover,
+	.back-link:focus,
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.back-link {
+			display: block;
+			align-self: flex-start;
+		}
+    }
+</style>
