@@ -110,6 +110,12 @@ const { Content } = await entry.render();
 		border: 1px solid var(--gray-800);
 	}
 
+	.content :global(iframe) {
+		aspect-ratio: 16/9;
+		border: 1px solid var(--gray-800);
+		box-shadow: var(--shadow-sm);
+	}
+
 	.content :global(blockquote) {
 		font-size: var(--text-lg);
 		font-family: var(--font-brand);
