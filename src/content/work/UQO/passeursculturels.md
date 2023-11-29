@@ -1,8 +1,8 @@
 ---
 title: Passeurs Culturels
-publishDate: 2022-09-04 00:00:00
-img: /assets/work/UQO/Passeurs_Culturels/passeurs_culturels_projets.png
-img_alt: Charte graphique de B.I.L. Horizons avec le logo et autres élément graphique
+publishDate: 2022-11-7 00:00:00
+img: /assets/work/UQO/Image_de_marque/passeurs_culturels_projets.png
+img_alt: Charte graphique proposé pour l'organisation des passeurs culturels
 description: |
   Proposition d'un design d'image de marque pour l'organisation Passeurs Culturels de l'Outaouais
   
