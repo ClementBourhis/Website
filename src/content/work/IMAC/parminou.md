@@ -6,7 +6,7 @@ img_alt: Miniature du cours métrage "Parminou"
 ressource: https://www.youtube.com/embed/ToKCgs8PYH4
 ressource_type: video
 description: |
-  Court-métrage réalisé pour un projet de première année d'IMAC 1.
+  Court-métrage réalisé en tant que projet de première année d'IMAC.
   
 tags:
   - Cinéma
@@ -17,12 +17,11 @@ tags:
 Court métrage basé sur le jeu "Among Us"
 Produit dans le cadre d'un projet de première année à la formation IMAC 1
 
-Avec la participation de :
-Théo Arnauld-Des-Lions dans le rôle de Théo 
-Anastasiya  Balan dans le rôle d'Anast, de la mère de Clém, et du porte manteau
-Clément Bourhis dans le rôle de Clém
+Avec la participation de :<br>
+Théo Arnauld-Des-Lions dans le rôle de Théo <br>
+Anastasiya  Balan dans le rôle d'Anast, de la mère de Clém, et du porte manteau<br>
+Clément Bourhis dans le rôle de Clem <br>
 Estelle Thouvenin dans le rôle d'Estelle
-
 
 Gestion du son :
 Adam Ferreira
