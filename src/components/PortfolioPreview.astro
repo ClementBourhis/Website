@@ -27,10 +27,12 @@ const { data, slug } = Astro.props.project;
 		font-family: var(--font-brand);
 		font-size: var(--text-lg);
 		font-weight: 500;
-		transition: box-shadow var(--theme-transition);
+		transition: box-shadow var(--theme-transition), transform 0.5s;
+		direction: ltr;
 	}
 
 	.card:hover {
+		transform: translateY(-1rem);
 		box-shadow: var(--shadow-md);
 	}
 
