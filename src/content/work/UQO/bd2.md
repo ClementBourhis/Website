@@ -1,8 +1,9 @@
 ---
-title: Bande dessiné 2
+title: UQO BD2 Witch & Ranger
 publishDate: 2022-10-13 00:00:00
 img: /assets/work/UQO/BD/bd2.png
 img_alt: Bande dessiné de 8 cases en couleur
+miniature: /assets/work/UQO/BD/bd2_miniature.jpg
 description: |
   Bande dessiné réalisé en cours de BD à l'UQO
   

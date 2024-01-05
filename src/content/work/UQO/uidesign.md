@@ -3,6 +3,7 @@ title: Interface d'une enceinte
 publishDate: 2022-12-04 00:00:00
 img: /assets/work/UQO/UI/enceinte.png
 img_alt: Image du prototype figma de l'interface
+miniature: /assets/work/UQO/UI/enceinte_miniature.jpg
 description: |
   Exercice de UI design en concevant une nouvelle interface d'une enceinte
   

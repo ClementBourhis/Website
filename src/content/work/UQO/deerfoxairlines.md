@@ -3,6 +3,7 @@ title: Deerfox Airlines
 publishDate: 2022-12-07 00:00:00
 img: /assets/work/UQO/Image_de_marque/deerfox_airlines_projets.png
 img_alt: identité pour deerfox airlines
+miniature : /assets/work/UQO/Image_de_marque/deerfox_airlines_projets_miniature.jpg
 description: |
   Exercice de design d'image de marque pour une compagnie aérienne imaginé
   

@@ -3,6 +3,7 @@ title: RocketIMAC
 publishDate: 2020-12-10 00:00:00
 img: /assets/work/IMAC/Web/rocketimac.png
 img_alt: images de présentation du projet web "RocketIMAC"
+miniature: /assets/work/IMAC/Web/rocketimac_miniature.jpg
 description: |
   Projet web réalisé en première année d'IMAC.
   

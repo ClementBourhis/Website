@@ -3,6 +3,7 @@ title: B.I.L. Horizons
 publishDate: 2022-07-04 00:00:00
 img: /assets/work/B.I.L. Horizons/bil_projets.png
 img_alt: Charte graphique de B.I.L. Horizons avec le logo et autres élément graphique
+miniature: /assets/work/B.I.L. Horizons/bil_projets_miniature.jpg
 description: |
   La nouvelle charte graphique de B.I.L. Horizons.
   

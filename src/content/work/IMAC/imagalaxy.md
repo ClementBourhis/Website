@@ -3,6 +3,7 @@ title: IMA'GALAXY
 publishDate: 2022-01-04 00:00:00
 img: /assets/work/IMAC/Prog/imagalaxy.png
 img_alt: images de présentation du projet de programmation "IMA'GALAXY"
+miniature: /assets/work/IMAC/Prog/imagalaxy_miniature.jpg
 description: |
   Projet de programmation réalisé en deuxième année d'IMAC.
   

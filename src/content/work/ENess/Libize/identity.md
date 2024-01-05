@@ -3,6 +3,7 @@ title: Libize
 publishDate: 2023-08-07 00:00:00
 img: /assets/work/Libize/libize_projets.png
 img_alt: Charte graphique de Libize avec le logo et autres élément graphique
+miniature: /assets/work/Libize/libize_projet_miniature.jpg
 description: |
   Développement de la communication visuelle du logiciel Libize
   

@@ -3,6 +3,7 @@ title: Passeurs Culturels
 publishDate: 2022-11-7 00:00:00
 img: /assets/work/UQO/Image_de_marque/passeurs_culturels_projets.png
 img_alt: Charte graphique proposé pour l'organisation des passeurs culturels
+miniature : /assets/work/UQO/Image_de_marque/passeurs_culturels_projets_miniature.jpg
 description: |
   Proposition d'un design d'image de marque pour l'organisation Passeurs Culturels de l'Outaouais
   

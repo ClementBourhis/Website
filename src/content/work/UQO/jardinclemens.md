@@ -3,6 +3,7 @@ title: Jardin Clemens
 publishDate: 2022-12-09 00:00:00
 img: /assets/work/UQO/Image_de_marque/jardin_clemens_projets.png
 img_alt: identité pour jardin clemens
+miniature : /assets/work/UQO/Image_de_marque/jardin_clemens_projets_miniature.jpg
 description: |
   Exercice de design d'image de marque pour une entreprise imaginé
   

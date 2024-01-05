@@ -1,7 +1,7 @@
 ---
 title: Parminou
 publishDate: 2020-11-14 00:00:00
-img: /assets/work/IMAC/Courts-métrages/parminou.png
+img: /assets/work/IMAC/Courts-métrages/parminou.jpg
 img_alt: Miniature du cours métrage "Parminou"
 ressource: https://www.youtube.com/embed/ToKCgs8PYH4
 ressource_type: video

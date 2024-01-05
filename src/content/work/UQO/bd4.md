@@ -1,8 +1,9 @@
 ---
-title: Bande dessiné 4
+title: UQO BD4 Le Téléporteur
 publishDate: 2022-12-16 00:00:00
 img: /assets/work/UQO/BD/bd4.png
 img_alt: Bande dessiné sur 2 pages en 14 cases en noir et blanc
+miniature: /assets/work/UQO/BD/bd4_miniature.jpg
 description: |
   Bande dessiné réalisé en cours de BD à l'UQO
   

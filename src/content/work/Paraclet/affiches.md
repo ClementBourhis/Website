@@ -3,6 +3,7 @@ title: Affiches Paraclet
 publishDate: 2023-08-07 00:00:00
 img: /assets/work/Paraclet/affiches_poubelles.png
 img_alt: Quatres affiches sur le tri sélectif
+miniature: /assets/work/Paraclet/affiches_poubelles_miniature.jpg
 description: |
   4 affiches de tri pour le lycée "Le Paraclet" à Quimper
   
