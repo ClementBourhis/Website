@@ -1,12 +1,14 @@
 ---
 interface Props {
 	href: string;
+	download?: boolean | undefined;
 }
 
-const { href } = Astro.props;
+const { href, download=false } = Astro.props;
 ---
 
-<a href={href}><slot /></a>
+{ !download && <a href={href}><slot /></a>}
+{ download && <a href={href} download><slot /></a>}
 
 <style>
 	a {
