@@ -5,10 +5,16 @@ import Icon from './Icon.astro';
 
 <aside>
 	<h2>Vous souhaitez travailler avec moi ?</h2>
-	<CallToAction href="mailto:bourhis.clement29@gmail.com">
-		M'envoyer un Message
-		<Icon icon="paper-plane-tilt" size="1.2em" />
-	</CallToAction>
+	<div>
+		<CallToAction href="assets/documents/Clement_BOURHIS_CV.pdf" download={true}>
+			Télécharger mon CV
+			<Icon icon="download" size="1.2em" />
+		</CallToAction>
+		<CallToAction href="mailto:bourhis.clement29@gmail.com">
+			M'envoyer un Message
+			<Icon icon="paper-plane-tilt" size="1.2em" />
+		</CallToAction>
+	</div>
 </aside>
 
 <style>
@@ -30,6 +36,12 @@ import Icon from './Icon.astro';
 		max-width: 15ch;
 	}
 
+	div {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 5rem;
+	}
+
 	@media (min-width: 50em) {
 		aside {
 			padding: 7.5rem;
@@ -42,5 +54,9 @@ import Icon from './Icon.astro';
 			font-size: var(--text-3xl);
 			text-align: left;
 		}
+
+		div {
+		grid-template-columns: 1fr 1fr;
+	}
 	}
 </style>
