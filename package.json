@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.3.0"
+    "@astrojs/partytown": "^2.1.4",
+    "@astrojs/react": "^4.3.0",
+    "astro": "^5.8.0"
   }
 }
