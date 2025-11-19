@@ -5,7 +5,7 @@ img: /assets/work/1-me/illustrations/DUNE Fan-Art.png
 img_alt: DUNE poster
 miniature: /assets/work/1-me/illustrations/DUNE Fan-Art_miniature.jpg
 description: |
-  Poster Fan-Art de la sagaz DUNE
+  Poster Fan-Art de la saga DUNE
   
 tags:
   - Krita

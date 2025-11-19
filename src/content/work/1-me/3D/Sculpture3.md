@@ -1,6 +1,6 @@
 ---
 title: Sculpture3
-publishDate: 2024-11-06 00:00:00
+publishDate: 2024-11-22 00:00:00
 img: /assets/work/1-me/3D/Sculpture3.png
 img_alt: Sculpture
 miniature: /assets/work/1-me/3D/Sculpture3_miniature.png
