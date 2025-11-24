@@ -1,12 +1,14 @@
 ---
 import CallToAction from './CallToAction.astro';
 import Icon from './Icon.astro';
+
+import CV from '../assets/documents/Clement_BOURHIS_CV.pdf';
 ---
 
 <aside>
 	<h2>Vous souhaitez travailler avec moi ?</h2>
 	<div>
-		<CallToAction href="assets/documents/Clement_BOURHIS_CV.pdf" download={true}>
+		<CallToAction href={CV} download={true}>
 			Télécharger mon CV
 			<Icon icon="download" size="1.2em" />
 		</CallToAction>

@@ -4,6 +4,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import ContactCTA from '../components/ContactCTA.astro';
 import Hero from '../components/Hero.astro';
 import Icon from '../components/Icon.astro';
+
+let age = new Date().getFullYear() - 2000 - 1; // Approximation based on birth year 2000
+if (new Date().getMonth() < 4) {
+	age -= 1;
+}
 ---
 
 <BaseLayout title="À propos | Clément Bourhis" description="About Clément Bourhis">
@@ -25,8 +30,31 @@ import Icon from '../components/Icon.astro';
 				<h2 class="section-title">Qui suis-je ?</h2>
 				<div class="content">
 					<p>
-						Agé de 23 ans, je suis diplômé de la formation d'ingénieur <a href="https://www.ingenieur-imac.fr" target="_blank">IMAC</a>. 
-						Le cursus que j'ai suivi m'a permis d'acquérir diverses compétences dans la création de contenus multimédias,
+						Agé de {age} ans, je suis actuellement étudiant au Master Jeux Vidéos AGATA de l'école des Gobelins à Paris (<a href="https://www.gobelins.fr/jeu-video/formations/jv50-mastere-advanced-game-creation-real-time-applications" target="_blank">Master in Advanced Game Creation and Real-Time Applications</a>).<br>
+					</p>
+					<br>
+					<p>
+						Durant cette formation j'apprend à créer des environnements 3D temps réel pour des jeux vidéos ou des applications interactives. J'y développe mes compétences en modélisation 3D, texturing, lighting, animation, rigging, optimisation et intégration dans des moteurs de jeux tels qu'Unreal Engine ou Unity.<br>
+						J'ai également l'occasion de travailler en équipe sur des projets complets de jeux vidéos, allant de la conception initiale à la réalisation finale, en passant par la gestion de projet et la communication.<br>
+						Cette formation me permet de combiner ma passion pour la création artistique et mes compétences techniques acquises en ingénierie multimédia.
+					</p>
+					<p>
+						La formation s'oriente autour des points suivants :
+					</p>
+						 - Création de jeux vidéo en 3D<br>
+						 - Modélisation et texturing d'assets 3D<br>
+						 - Réalisation d'environnements 3D immersifs<br>
+						 - Développement d'applications interactives en réalité virtuelle (VR) et augmentée (AR)<br>
+						 - Conception de personnages 3D animés<br>
+						 - Optimisation de performances pour des applications temps réel<br>
+						 - Collaboration avec des équipes multidisciplinaires pour la création de projets complets<br>
+						 - Utilisation de logiciels professionnels tels que Blender, ZBrush, Substance Painter, Unreal Engine, Unity...<br>
+
+					</p>
+					<br>
+					<p>
+						Je suis également diplômé de la formation d'ingénieur <a href="https://www.ingenieur-imac.fr" target="_blank">IMAC</a>. 
+						Diplôme qui m'a formé à acquérir diverses compétences dans la création de contenus multimédias,
 						j'ai également eu l'occasion de travailler sur des projets seuls et en équipe :
 					</p>
 					<br>
@@ -52,10 +80,23 @@ import Icon from '../components/Icon.astro';
 			<section>
 				<h2 class="section-title">Formation</h2>
 				<div class="content">
+					<h2>Les Gobelins Paris - Master Jeux Vidéos</h2>
+					<p>Formation au diplôme de master Advanced Game Creation and Real-Time Applications<br>
+						<br>
+						- Maîtrise complète et général du moteur de rendu Unreal Engine
+						<br>
+						- Conception d’expériences intéractives et jeux en 3D temps réel
+						<br>
+						- Développement des compétences en direction artistique d’environnements 3D
+					</p>
+					<br>
+					<p><a href="https://www.gobelins.fr/jeu-video/formations/jv50-mastere-advanced-game-creation-real-time-applications" target="_blank">Les Gobelins Paris</a> - (2025 - 2027)</p>
+				</div>
+				<div class="content">
 					<h2>École d'ingénieur IMAC</h2>
 					<p>Ingénieur en Image, Multimédia, Audiovisuel et Communication avec session de 4 mois à UQO (Québec) dans un cadre d’échange international BCI (Août-Décembre 2022)</p>
 					<br>
-					<p><a href="https://www.ingenieur-imac.fr" target="_blank">Université Gustave Eiffel - ESIPE</a> - (2020 - 2023)</p>
+					<p><a href="https://www.ingenieur-imac.fr" target="_blank">Université Gustave Eiffel - ESIPE</a> - (2020 - 2024)</p>
 				</div>
 				<div class="content">
 					<h2>IUT Réseaux & Télécoms</h2>
@@ -73,6 +114,38 @@ import Icon from '../components/Icon.astro';
 			<section>
 				<h2 class="section-title">Compétences</h2>
 				<div class="content">
+					<h2>Infographie | Multimédia | Jeux Vidéos</h2>
+
+					<h2>Logiciels</h2>
+					
+					<h3>3D / Jeux Vidéos</h3>
+					<p>Blender / ZBrush / Substance Painter / Substance Designer / Unity / Unreal Engine </p>
+
+					<h3>Image</h3>
+					<p>Illustrator / Photoshop / Krita / Paint Tool SAI / GIMP / Canva / P5</p>
+
+					<h3>Prototypage</h3>
+					<p>Figma / InDesign</p>
+
+					<h3>Son</h3>
+					<p>Audacity / Pro Tools</p>
+
+					<h3>Vidéo</h3>
+					<p>Davinci Resolve / Premiere-Pro / After Effect / OBS Studio / MAGIX video</p>
+
+					<h3>Autre</h3>
+					<p>Les licences Microsoft Office</p>
+	
+					<h3>Équipements</h3>
+					<p>Caméra GH5 Lumix / Enregistreur son portable / Perche son / Tablette graphique XP-Pen 15.6 Pro</p>
+	
+					<h3>Pratiques</h3>
+					<p>Dessin / Photographie / Montage / Illustration / Imagerie / Modelisation 3D / Composition sonore / Animation 2D / Animation 3D / Motion Design / Maquettage</p>
+					
+					<h3>Démarches</h3>
+					<p>Observation / Moodboard / Storyboard / Écriture / Analyse</p>
+				</div>
+				<div class="content">
 					<h2>Informatique</h2>
 					
 					<h3>Langages</h3>
@@ -87,20 +160,38 @@ import Icon from '../components/Icon.astro';
 					<h3>Réseaux</h3>
 					<p>IPV4 / IPV6 / VPN / VLAN / BGP / OSPF / MPLS / DNS / DHCP / NAT / LDAP / Apache / Connexion cuivre et fibre / WiFi</p>
 				</div>
-				<div class="content">
-					<h2>Artistique</h2>
-	
-					<h3>Équipements</h3>
-					<p>Caméra GH5 Lumix / Enregistreur son portable / Perche son / Tablette graphique XP-Pen 15.6 Pro</p>
-	
-					<h3>Pratiques</h3>
-					<p>Dessin / Photographie / Montage / Illustration / Imagerie / Modelisation 3D / Composition sonore / Animation 2D / Animation 3D / Motion Design / Maquettage</p>
-					
-					<h3>Démarches</h3>
-					<p>Observation / Moodboard / Storyboard / Écriture / Analyse</p>
-				</div>
 			<section>
 				<h2 class="section-title">Expériences</h2>
+				<div class="content">
+					<h2>Startics</h2>
+					<p> Modélisation 3D</p>
+					<p> Montages vidéo </p>
+					<p> Graphisme et Illustrations</p>
+					<p> Création d’outils web</p>
+					<p> Motion Design</p>
+					<br>
+					<a href="/" target="_blank">Startics</a> - (2023 - En cours) - Freelance</p>
+				</div>
+
+				<h2 class="section-title">Expériences</h2>
+				<div class="content">
+					<h2>Le Paraclet</h2>
+					<p> - Enseignement à la création d’une expérience ludique aux élèves de DNMADE </p>
+					<p>	- Suivi étape par étape de la création d’un Alternate Reality Game (ARG)</p>
+					<br>
+					<a href="https://www.leparaclet.org" target="_blank">Lycée le Paraclet Quimper</a> - (2024) - Workshop</p>
+				</div>
+
+				<h2 class="section-title">Expériences</h2>
+				<div class="content">
+					<h2>Cadr'Aven</h2>
+					<p> Impression graphique sur divers matériaux (pvc, dilite, vinyl...)</p>
+					<p> - Opérateur sur une machine de découpe</p>
+					<p> - Préparation de panneaux, bâches, plaques décoratives</p>
+					<br>
+					<a href="https://cadraven.com" target="_blank">Cadr'Aven</a> - (2024) - CDD 1 mois</p>
+				</div>
+
 				<div class="content">
 					<h2>E-Ness</h2>
 					<p> - Réalisation de maquettes et intégration de sites web</p>
@@ -126,29 +217,6 @@ import Icon from '../components/Icon.astro';
 					<p> - Amélioration et réorganisation des protocoles de SAV avec la création de manuels d’instructions</p>
 					<br>
 					<a href="https://www.capgemini.com" target="_blank">Altran (Capgemini)</a> - (2019 - 2020) - Alternance de 1 an</p>
-				</div>
-			</section>
-
-			<section>
-				<h2 class="section-title">Logiciels</h2>
-				<div class="content">
-					<h3>Vidéo</h3>
-					<p>Davinci Resolve / Premiere-Pro / After Effect / OBS Studio / MAGIX video</p>
-
-					<h3>Image</h3>
-					<p>Illustrator / Photoshop / Krita / Paint Tool SAI / GIMP / Canva / P5</p>
-
-					<h3>Prototypage</h3>
-					<p>Figma / InDesign</p>
-
-					<h3>Son</h3>
-					<p>Audacity / Pro Tools</p>
-
-					<h3>Modélisation 3D</h3>
-					<p>Blender</p>
-
-					<h3>Autre</h3>
-					<p>Les licences Microsoft Office</p>
 				</div>
 			</section>
 		</main>
